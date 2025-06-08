@@ -1,2 +1,4 @@
-flask
-flask-api-key
+Flask
+gunicorn
+python-dotenv
+requests
